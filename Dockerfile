@@ -74,3 +74,5 @@ RUN git clone https://github.com/dotnet/cli /opt/code/cli
 
 # Set working directory
 WORKDIR /opt/code/cli
+
+CMD bash
