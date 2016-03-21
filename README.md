@@ -1,2 +1,8 @@
 # cli-ubuntu-dev
-A repo hosting the dockerfile which has an already setup ubuntu dev environment for the dotnet cli
+A quick an easy dev environment for cli on ubuntu.
+
+To get started:
+
+`docker run -it brthor/cli-ubuntu-dev`
+
+enjoy :smile:
